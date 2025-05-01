@@ -22,6 +22,7 @@ title: Amdounix Blog!
 email: med.amd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog where I will post some articles about AWS Java/Spring ecosystem :)
+  UNDER CONSTRUCTION
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://m-amdouni.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: m-amdouni
